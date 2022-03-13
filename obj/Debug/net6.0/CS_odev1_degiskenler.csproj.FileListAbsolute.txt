@@ -1,0 +1,15 @@
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.csproj.AssemblyReference.cache
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.AssemblyInfoInputs.cache
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.AssemblyInfo.cs
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\bin\Debug\net6.0\CS_odev1_degiskenler.exe
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\bin\Debug\net6.0\CS_odev1_degiskenler.deps.json
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\bin\Debug\net6.0\CS_odev1_degiskenler.runtimeconfig.json
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\bin\Debug\net6.0\CS_odev1_degiskenler.dll
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\bin\Debug\net6.0\CS_odev1_degiskenler.pdb
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.dll
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\refint\CS_odev1_degiskenler.dll
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.pdb
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\CS_odev1_degiskenler.genruntimeconfig.cache
+C:\Users\bayra\Desktop\.Net-Projects\CS_odev1_degiskenler\obj\Debug\net6.0\ref\CS_odev1_degiskenler.dll
